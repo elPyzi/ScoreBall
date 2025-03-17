@@ -1,0 +1,9 @@
+.container {
+  max-height: 300px;
+  width: 400px;
+}
+
+body {
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+}

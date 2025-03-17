@@ -1,0 +1,9 @@
+# folders
+public
+build
+dist
+
+
+# other
+**/*.html
+**/*.md
